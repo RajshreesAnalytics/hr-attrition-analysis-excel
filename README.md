@@ -23,5 +23,4 @@ Employees who left had 30% lower average salary
 
 ## 👩‍💼 Prepared By
 Rajshree Gupta — Data Analyst
-🔗 LinkedIn: linkedin.com/in/rajshree-gupta6121
 💻 GitHub: github.com/RajshreesAnalytics
